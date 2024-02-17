@@ -1,0 +1,10 @@
+/*一番上の画像*/
+.carousel-container {
+  width: 50%; /* カルーセルの幅を50%に設定 */
+  margin: 0 auto; /* 左右のマージンを自動で調整し、中央に配置 */
+}
+
+.carousel-item img {
+  width: 100%; /* コンテナの幅いっぱいに広がるように設定 */
+  height: auto; /* 画像の高さを幅に応じて自動調整 */
+}
